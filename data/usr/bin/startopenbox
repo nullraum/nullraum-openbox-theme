@@ -1,0 +1,10 @@
+#!/bin/sh
+
+  
+# Qt platform plugin
+export QT_PLATFORM_PLUGIN=qt5ct
+export QT_QPA_PLATFORMTHEME=qt5ct
+
+
+# Start the session
+exec openbox-session
