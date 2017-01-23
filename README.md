@@ -18,8 +18,6 @@ A simple and clean theme for the [Openbox window manager](http://openbox.org/).
 
 To install *nullraum-openbox-theme* open a terminal in the root folder of the repository and:
 
-(in development, currently does not work!)
-
 	$ sudo ninja install
 
 
@@ -36,3 +34,10 @@ Edit `~/.config/openbox/rc.xml`:
 </theme>
 ...
 ```
+
+
+# Uninstall it
+
+To uninstall *nullraum-openbox-theme* first disable the theme in `~/.config/openbox/rc.xml`. Then open a terminal in the root folder of the repository and:
+
+	$ sudo ninja uninstall
