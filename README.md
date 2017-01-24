@@ -14,7 +14,7 @@ A simple and clean theme for the [Openbox window manager](http://openbox.org/).
 
 # Install it
 
-*nullraum-openbox-theme* uses [ninja](https://github.com/ninja-build/ninja) as build-tool. 
+*nullraum-openbox-theme* uses [make](https://www.gnu.org/software/make/) as build-tool. 
 
 To install *nullraum-openbox-theme* open a terminal in the root folder of the repository and:
 
