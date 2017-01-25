@@ -2,7 +2,7 @@ install:
 	cp -r data/* /
 
 uninstall:
-	rm \
+	rm -f \
 	/usr/share/themes/nullraum/openbox-3/close.xbm \
 	/usr/share/themes/nullraum/openbox-3/desk.xbm \
 	/usr/share/themes/nullraum/openbox-3/desk_toggled.xbm \
